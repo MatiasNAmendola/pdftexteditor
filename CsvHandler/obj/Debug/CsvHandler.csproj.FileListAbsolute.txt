@@ -1,0 +1,7 @@
+C:\Users\mamendola\Documents\trabajos\PdfTextEditor\CsvHandler\bin\Debug\CsvHandler.dll
+C:\Users\mamendola\Documents\trabajos\PdfTextEditor\CsvHandler\bin\Debug\CsvHandler.pdb
+C:\Users\mamendola\Documents\trabajos\PdfTextEditor\CsvHandler\obj\Debug\CsvHandler.csprojResolveAssemblyReference.cache
+C:\Users\mamendola\Documents\trabajos\PdfTextEditor\CsvHandler\obj\Debug\CsvHandler.Csv.Resources.ExceptionMessage.resources
+C:\Users\mamendola\Documents\trabajos\PdfTextEditor\CsvHandler\obj\Debug\CsvHandler.csproj.GenerateResource.Cache
+C:\Users\mamendola\Documents\trabajos\PdfTextEditor\CsvHandler\obj\Debug\CsvHandler.dll
+C:\Users\mamendola\Documents\trabajos\PdfTextEditor\CsvHandler\obj\Debug\CsvHandler.pdb

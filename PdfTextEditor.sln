@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfTextEditor", "PdfTextEditor.csproj", "{398FF428-2036-43E1-8AC1-F033C15A2CD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfTextReplace", "PdfTextReplace\PdfTextReplace.csproj", "{6A5ADE51-8B9B-424A-AC07-CE4D90EC765E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvHandler", "CsvHandler\CsvHandler.csproj", "{E3B83D68-C90C-4874-8E5F-DEC8D038BC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398FF428-2036-43E1-8AC1-F033C15A2CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398FF428-2036-43E1-8AC1-F033C15A2CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398FF428-2036-43E1-8AC1-F033C15A2CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398FF428-2036-43E1-8AC1-F033C15A2CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5ADE51-8B9B-424A-AC07-CE4D90EC765E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5ADE51-8B9B-424A-AC07-CE4D90EC765E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5ADE51-8B9B-424A-AC07-CE4D90EC765E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5ADE51-8B9B-424A-AC07-CE4D90EC765E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B83D68-C90C-4874-8E5F-DEC8D038BC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B83D68-C90C-4874-8E5F-DEC8D038BC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B83D68-C90C-4874-8E5F-DEC8D038BC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B83D68-C90C-4874-8E5F-DEC8D038BC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

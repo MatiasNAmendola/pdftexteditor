@@ -1,0 +1,6 @@
+C:\Users\mamendola\Documents\trabajos\PdfTextEditor\PdfTextReplace\bin\Debug\PdfTextReplace.dll.config
+C:\Users\mamendola\Documents\trabajos\PdfTextEditor\PdfTextReplace\bin\Debug\PdfTextReplace.dll
+C:\Users\mamendola\Documents\trabajos\PdfTextEditor\PdfTextReplace\bin\Debug\PdfTextReplace.pdb
+C:\Users\mamendola\Documents\trabajos\PdfTextEditor\PdfTextReplace\bin\Debug\itextsharp.dll
+C:\Users\mamendola\Documents\trabajos\PdfTextEditor\PdfTextReplace\obj\Debug\PdfTextReplace.dll
+C:\Users\mamendola\Documents\trabajos\PdfTextEditor\PdfTextReplace\obj\Debug\PdfTextReplace.pdb

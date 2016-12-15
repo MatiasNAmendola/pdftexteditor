@@ -1,5 +1,5 @@
-//	CsvHandle.Csv.MalformedCsvException
-//	Copyright (c) 2005 Sébastien Lorion
+//	CsvHandler.Csv.MalformedCsvException
+//	Copyright (c) 2016, Matias Nahuel Améndola soporte.esolutions@gmail.com
 //
 //	MIT license (http://en.wikipedia.org/wiki/MIT_License)
 //

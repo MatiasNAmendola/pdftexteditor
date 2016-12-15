@@ -2,5 +2,6 @@ C:\Users\mamendola\Documents\trabajos\PdfTextEditor\PdfTextReplace\bin\Debug\Pdf
 C:\Users\mamendola\Documents\trabajos\PdfTextEditor\PdfTextReplace\bin\Debug\PdfTextReplace.dll
 C:\Users\mamendola\Documents\trabajos\PdfTextEditor\PdfTextReplace\bin\Debug\PdfTextReplace.pdb
 C:\Users\mamendola\Documents\trabajos\PdfTextEditor\PdfTextReplace\bin\Debug\itextsharp.dll
+C:\Users\mamendola\Documents\trabajos\PdfTextEditor\PdfTextReplace\obj\Debug\PdfTextReplace.csprojResolveAssemblyReference.cache
 C:\Users\mamendola\Documents\trabajos\PdfTextEditor\PdfTextReplace\obj\Debug\PdfTextReplace.dll
 C:\Users\mamendola\Documents\trabajos\PdfTextEditor\PdfTextReplace\obj\Debug\PdfTextReplace.pdb

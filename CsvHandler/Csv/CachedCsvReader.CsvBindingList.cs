@@ -1,5 +1,5 @@
-//	CsvHandle.CSV.CachedCsvReader.CsvBindingList
-//	Copyright (c) 2006 Sébastien Lorion
+//	CsvHandler.Csv.CachedCsvReader.CsvBindingList
+//	Copyright (c) 2006 Matias Nahuel Améndola soporte.esolutions@gmail.com
 //
 //	MIT license (http://en.wikipedia.org/wiki/MIT_License)
 //
